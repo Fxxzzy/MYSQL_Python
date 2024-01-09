@@ -1,0 +1,3 @@
+1- Abrir xampp
+2- iniciar mysql con xampp
+3- Iniciar el programa 
